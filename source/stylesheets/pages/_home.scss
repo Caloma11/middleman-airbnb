@@ -1,5 +1,5 @@
 #home {
-  background-color: white;
+  background-color: $dutch  ;
   color: white;
   // height: 100vh;
   // display: flex;
@@ -20,8 +20,8 @@
     font-size: 16px;
   }
   h1 {
-    padding: 20px;
-    color: #616668;
+    padding: 50px;
+    color: $dark;
   }
 }
 
